@@ -1,2 +1,1 @@
-##MTA-EDA.
-A project of SDAIA T5 Bootcamp
+Project of SDAIA T5 Bootcamp
